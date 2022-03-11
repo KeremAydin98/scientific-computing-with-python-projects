@@ -1,2 +1,2 @@
 # scientific-computing-with-python-projects
-Projects from scientific computing with pyrhon freecodecamp course
+Projects from scientific computing with python freecodecamp course
